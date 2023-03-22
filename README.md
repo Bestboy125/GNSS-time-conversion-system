@@ -1,2 +1,2 @@
 # GNSS-time-conversion-system
-A system that can help convert the GNSS time to UTC MJD JD  YOD
+A system that can help convert the JD time to UTC DOY BDS Gelileo Galnass
